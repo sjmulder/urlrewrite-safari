@@ -1,7 +1,7 @@
 URL Rewrite for Safari
 ======================
 
-An extension that lets you redirect Safari for specific URLs
+An extension that lets you redirect Safari for specific URLs.
 
 
 Usage
