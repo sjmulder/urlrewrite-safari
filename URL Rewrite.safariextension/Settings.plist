@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Key</key>
+		<string>sourceUrl1</string>
+		<key>Title</key>
+		<string>Source URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>destinationUrl1</string>
+		<key>Title</key>
+		<string>Destination URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>sourceUrl2</string>
+		<key>Title</key>
+		<string>Source URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>destinationUrl2</string>
+		<key>Title</key>
+		<string>Destination URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>sourceUrl3</string>
+		<key>Title</key>
+		<string>Source URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>destinationUrl3</string>
+		<key>Title</key>
+		<string>Destination URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>sourceUrl4</string>
+		<key>Title</key>
+		<string>Source URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>destinationUrl4</string>
+		<key>Title</key>
+		<string>Destination URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>sourceUrl5</string>
+		<key>Title</key>
+		<string>Source URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>destinationUrl5</string>
+		<key>Title</key>
+		<string>Destination URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+</array>
+</plist>

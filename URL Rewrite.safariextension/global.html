@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>URL Rewrite extension</title>
+<script>
+	(function() {
+		'use strict';
+
+		safari.application.addEventListener('beforeNavigate', function(event) {
+		
+			var settings = safari.extension.settings;
+			for (var i = 1; typeof settings['sourceUrl' + i] != 'undefined'; i++) {
+				var sourceUrl = settings['sourceUrl' + i];
+				var destinationUrl = settings['destinationUrl' + i];
+
+				if (sourceUrl == '') {
+					continue;
+				}
+
+				if (event.url.indexOf(sourceUrl) == 0) {
+					var newUrl = destinationUrl + event.url.slice(sourceUrl.length);
+					// console.log('rewriting', event.url, 'to', newUrl);
+					
+					event.preventDefault();
+					event.target.url = newUrl;
+					
+					break;
+				}
+			}
+
+		}, true);
+
+	})();
+</script>
