@@ -17,7 +17,7 @@ To configure:
  4. Now, any link that begins with Source URL will have that replaced with Destination URL. In the example above, `http://jira.example.com/PROJ-123` would be rewritten to `http://example.myvpn.com/jira/PROJ-123`
 
 Notes:
- 
+
  * There is room for up to 5 replacements in the settings.
  * Make sure to include the protocol, like `http://`.
  * There is no wildcard support, just a prefix match.
