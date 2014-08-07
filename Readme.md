@@ -7,7 +7,7 @@ An extension that lets you redirect Safari for specific URLs.
 Usage
 -----
 
-To install, double click `URL Rewrite.safariextension`.
+To install, [download here](http://60ef-sjmulder-nl.s3.amazonaws.com/files/URL%20Rewrite%201.1.safariextz).
 
 To configure:
 
