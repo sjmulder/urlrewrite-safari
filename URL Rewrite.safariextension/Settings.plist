@@ -82,5 +82,85 @@
 		<key>Type</key>
 		<string>TextField</string>
 	</dict>
+	<dict>
+		<key>Key</key>
+		<string>sourceUrl6</string>
+		<key>Title</key>
+		<string>Source URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>destinationUrl6</string>
+		<key>Title</key>
+		<string>Destination URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>sourceUrl7</string>
+		<key>Title</key>
+		<string>Source URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>destinationUrl7</string>
+		<key>Title</key>
+		<string>Destination URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>sourceUrl8</string>
+		<key>Title</key>
+		<string>Source URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>destinationUrl8</string>
+		<key>Title</key>
+		<string>Destination URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>sourceUrl9</string>
+		<key>Title</key>
+		<string>Source URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>destinationUrl9</string>
+		<key>Title</key>
+		<string>Destination URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>sourceUrl10</string>
+		<key>Title</key>
+		<string>Source URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>destinationUrl10</string>
+		<key>Title</key>
+		<string>Destination URL</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
 </array>
 </plist>
